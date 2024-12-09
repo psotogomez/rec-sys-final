@@ -25,11 +25,11 @@ para ejecutar este modelo se debe correr run_VAE.py, dentro del arhivo se puede 
 ## Cómo Instalar dependencias
 
 1. Clona el repositorio:
-    ```sh
+    ```
     git clone https://github.com/psotogomez/rec-sys-final.git && cd rec-sys-final
     ```
 
 2.Inicializa el ambiente de conda:
-    ```sh
+    ```
     conda env create -f spec-file.yml
     ```
