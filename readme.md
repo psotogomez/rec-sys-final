@@ -9,6 +9,8 @@ Ubicación: `./gru4rec/`
 
 Para ejecutar este modelo se debe utilizar en jupyter. Dependiendo el dataset a utilizar puede ejecutar yoochoose en GRU4Rec_official_pytorch_implementation.ipynb o RetailRocket en GRU4Rec_official_pytorch_retail_rocket.ipynb
 
+Se debe colocar el dataset youchoose bajo el siguiente path gru4rec/yoochoose-data, tal que los archivos queden así gru4rec/yoochoose-data/yoochoose-clicks.dat, gru4rec/yoochoose-data/yoochoose-buys.dat, etc.
+
 ### 2. LightGCN
 Ubicación: `./lightgcn/`
 
